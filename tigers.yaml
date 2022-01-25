@@ -1,0 +1,15 @@
+team: Lions
+
+<<<<<<< HEAD
+manager: Brenda
+coach: Grace
+=======
+manager: Kenneth
+coach: Ruth
+>>>>>>> to-merge
+
+members:
+- Thomas
+- Karen
+- Margaret
+- Tyler
